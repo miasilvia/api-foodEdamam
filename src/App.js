@@ -36,7 +36,7 @@ function App() {
   console.log(foodData, "ini data");
   return (
     <>
-      <div className="bg-[#a8a29e] backdrop-filter:blur-lg flex flex-col px-5 items-center min-h-screen">
+      <div className="bg-[#a8a29e] backdrop-filter:blur-lg flex flex-col px-5 items-center">
         <h1 className="animate-fade-in mb-10 mt-10 text-3xl">
           DAFTAR MAKANAN DAN JUMLAH KALORINYA
         </h1>
@@ -47,7 +47,7 @@ function App() {
           value={searchQuery}
           onChange={handleSearch}
         />
-        <Food foodData={foodData}/>
+        <Food foodData={foodData} />
       </div>
     </>
   );
