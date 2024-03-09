@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/api-foodEdemam/static/css/main.694fd56f.css",
-    "main.js": "/api-foodEdemam/static/js/main.05f5aae5.js",
+    "main.css": "/api-foodEdemam/static/css/main.808c00d8.css",
+    "main.js": "/api-foodEdemam/static/js/main.14a8a943.js",
     "static/js/453.8185f04e.chunk.js": "/api-foodEdemam/static/js/453.8185f04e.chunk.js",
     "index.html": "/api-foodEdemam/index.html",
-    "main.694fd56f.css.map": "/api-foodEdemam/static/css/main.694fd56f.css.map",
-    "main.05f5aae5.js.map": "/api-foodEdemam/static/js/main.05f5aae5.js.map",
+    "main.808c00d8.css.map": "/api-foodEdemam/static/css/main.808c00d8.css.map",
+    "main.14a8a943.js.map": "/api-foodEdemam/static/js/main.14a8a943.js.map",
     "453.8185f04e.chunk.js.map": "/api-foodEdemam/static/js/453.8185f04e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.694fd56f.css",
-    "static/js/main.05f5aae5.js"
+    "static/css/main.808c00d8.css",
+    "static/js/main.14a8a943.js"
   ]
 }
