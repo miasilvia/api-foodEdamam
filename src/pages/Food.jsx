@@ -1,7 +1,7 @@
 export default function Food({ foodData }) {
   return (
     <>
-      <div className="flex flex-wrap px-11 justify-center mt-10 mb-3 h-screen">
+      <div className="flex flex-wrap px-11 justify-center mt-10 mb-3 min-h-screen">
         {foodData.length > 3 && (
           <>
             {foodData.map((food) => (
