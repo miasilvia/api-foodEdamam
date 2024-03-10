@@ -2,7 +2,7 @@
   "name": "api-food",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://miasilvia.github.io/api-foodEdemam",
+  "homepage": ".",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -17,7 +17,6 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "^5.0.1",
-    "tailwindcss": "^3.4.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -48,5 +47,8 @@
   },
   "browser": {
     "path": false
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
   }
 }
